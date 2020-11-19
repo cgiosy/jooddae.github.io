@@ -96,7 +96,7 @@ night_mode: "manual"
 defaults:
   home:
    heading: "JooDdae의 Problem Solving 블로그"
-   subheading: "네이버 블로그 기"
+   subheading: "네이버 블로그 탈출기"
 #     banner: "Your image url"
 
 # Pagination setting
