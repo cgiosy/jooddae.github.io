@@ -81,7 +81,7 @@ yat:
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
 # "on/off" is for always on/off.
-# night_mode: "auto"
+night_mode: "manual"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -96,7 +96,7 @@ yat:
 defaults:
   home:
    heading: "JooDdae의 Problem Solving 블로그"
-#   subheading: "Your awesome subheading"
+   subheading: "네이버 블로그 기"
 #     banner: "Your image url"
 
 # Pagination setting
